@@ -15,6 +15,7 @@ pageId = '9cfc54d0ebb14a93821a6b49151902db'
 
 updateDatabase.getDatabase()
 updateDatabase.getDataBases()
+updateDatabase.updateDatabase()
 
 def updatePage(padeId, headers):
 
